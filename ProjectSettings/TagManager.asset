@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - IslandArea
+  - Left Arrow
+  - Right Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 1507222109
+    locked: 0
+  - name: NPC/Islands
+    uniqueID: 2733919813
+    locked: 0
+  - name: Player
+    uniqueID: 1017671529
+    locked: 0
+  - name: Enviroment
+    uniqueID: 1958866493
+    locked: 0
+  - name: Indicator
+    uniqueID: 2063065271
+    locked: 0
